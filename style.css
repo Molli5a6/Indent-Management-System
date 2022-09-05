@@ -1,66 +1,18 @@
-body  
-{  
-    margin: 0;  
-    padding: 0;   
-    font-family: 'Arial';  
-} 
-
-.login{
-    margin-right: 100px;  
-   text-align: right
-    
-}
-
-h2{ 
+body{   
+    margin:0;
+    padding:0;
+    font-family: 'Arial'; 
+}  
+.head{
     text-align: center;
-            margin-left: 30px;
-            margin-right: 30px;
-            margin-top: 30px;
-            color: #fff;
-            border-color:  #663ef9;
-            border-radius: 10px;
-            font-size: 30px;
-            padding: 10px 32px; 
-    
-    background-color: #663ef9; 
-     
-} 
-label{  
-    color: #711b79;  
+    margin-left: 30px;
+
 }
-     
+#frm{  
+    margin-right: 100px;  
+    text-align: right;
 
-
-#Uname{  
-      
-    padding-top: 10px;
-    padding-bottom: 10px;  
-    padding-right: 5px;
-    padding-left: 5px;
-    border-color:#7e1997;
-    
-    
-}
-   
-#Pass{
-    padding-top: 10px;
-    padding-bottom: 10px;  
-    padding-right: 5px;  
-    padding-left: 5px;
-    border-color: #7e1997; 
-
-     
-    
-      
-} 
-#log{  
-    padding-top: 10px;
-    padding-bottom: 10px;  
-    padding-right: 20px;  
-    padding-left: 20px; 
-    border-radius: 10px;
-    background-color: #08477a; 
-    border:none;
-    color: #fff;   
-    
-}   
+}  
+#btn{    
+    background: #337ab7;    
+}  
